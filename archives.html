@@ -1,0 +1,15 @@
+---
+layout: default
+---
+ 
+<h1>Todos ({{ site.posts.size }}) los posts.</h1>
+
+<div class="post">
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date: "%d de %b, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>

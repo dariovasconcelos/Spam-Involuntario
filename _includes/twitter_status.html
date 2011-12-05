@@ -1,0 +1,15 @@
+<div class="Status"> 
+    <h2><strong>Twitter Status</strong></h2> 
+    <div id="twitter_div"> 
+        <ul id="twitter_update_list"></ul> 
+        <a href="https://twitter.com/intent/follow?screen_name=dariuus" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a> 
+    </div> 
+</div> 
+<div class="Status">
+    <h2><strong>Delicious</strong></h2>
+    <ul class="delicious-links">
+      {% delicious username:dvasconcelos tag:web count:15 ttl:3600 %}
+        <li><a href="{{ item.link }}" title="{{ item.description }}" rel="external">{{ item.title }}</a></li>
+      {% enddelicious %}
+    </ul>
+</div>

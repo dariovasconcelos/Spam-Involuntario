@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Spam involuntario</title>
+ <link href="http://spaminvoluntario.com/atom.xml" rel="self"/>
+ <link href="http://spaminvoluntario.com"/>
+ <updated>2011-12-05T13:03:22-06:00</updated>
+ <id>http://spaminvoluntario.com</id>
+
+ 
+ <author>
+   <name>Dario Vasconcelos</name>
+   <email>dario.vasconcelos@gmail.com</email>
+ </author>
+ 
+ 
+ 
+ <entry>
+   <title>De la manera dif&amp;iacute;cil</title>
+   <link href="http://spaminvoluntario.com/2011/11/30/de-la-manera-dificil/"/>
+   <updated>2011-11-30T00:00:00-06:00</updated>
+   <id>http://spaminvoluntario.com/2011/11/30/de-la-manera-dificil</id>
+   <content type="html">&lt;p&gt;Desde siempre me he considerado un experto en hacer las cosas de la forma m&amp;#225;s simple que he tenido a la mano. Y es que soy flojo. Mucho. Si me das la oportunidad, dormir&amp;#233; hasta las 11:00; si me obligas a hacer la misma cosa 100 veces, prefiero emplear el doble de tiempo para pensar en c&amp;#243;mo hacerlo s&amp;#243;lo una vez y luego con un bot&amp;#243;n m&amp;#225;gicamente crear las 99 versiones restantes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://xkcd.com/974/'&gt;&lt;img src='http://imgs.xkcd.com/comics/the_general_problem.png' height='215' alt='XKCD *siempre* tiene algo qu&amp;eacute; decir' width='510px' /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Como es f&amp;#225;cil deducir, esto de ser siempre pr&amp;#225;ctico no siempre es pr&amp;#225;ctico. A veces es f&amp;#225;cil perder horas o hasta d&amp;#237;as enteros buscando una herramienta perfecta para una tarea &lt;i&gt;talachuda&lt;/i&gt; que en el peor de los casos habr&amp;#237;a tomado un par de horas terminar. Y escudarse en el esp&amp;#237;ritu cient&amp;#237;fico al intentar explicar por qu&amp;#233; decidiste emplear dos semanas para aprender Ruby, si lo que necesitabas en realidad era producir &lt;em&gt;urgentemente&lt;/em&gt; un PDF con cientos de gr&amp;#225;ficas. Y claro, no olvidar mencionar cuando te das cuenta de que la herramienta perfecta en realidad no sirve para resolver tu problema. A veces no hay sustituto para el trabajo fecundo y creador. &amp;iquest;O era sangre, sudor y l&amp;#225;grimas? Nunca he sido el mejor para esto de las citas inspiradoras.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, a la larga todo este sufrimiento suele pagar: en mi caso, el resultado ha sido conocer los atajos para el teclado de al menos 100 aplicaciones, y no usar el mouse casi nunca -sospecho que el origen de esta obsesi&amp;#243;on fue precisamente mi inhabilidad para usarlo-, y la ilusi&amp;#243;n de trabajar m&amp;#225;s r&amp;#225;pido. O al menos hacer m&amp;#225;s cosas a la vez. No todas productivas, por cierto.&lt;/p&gt;
+
+&lt;p&gt;Pero a veces otra cosa que se interpone en el camino del pragmatismo es la comodidad. Y en el camino de la comodidad, la b&amp;#250;squeda de un ideal est&amp;#233;tico. Me explico: aunque es probable que la postura ideal para trabajar sea sentado en una silla ergon&amp;#243;mica, con teclado ergon&amp;#243;mico y monitor colocado a la altura ergon&amp;#243;mica ideal, es m&amp;#225;s &lt;em&gt;cool&lt;/em&gt; hacerlo en tu MacBook Air de 11&amp;#8221; recargada en tus piernas. O peor a&amp;#250;n: con tu iPad 2 recargado en las piernas, Smart Cover enrollado cuidadosamente, intentando balancearlo de forma que el teclado se alinee m&amp;#237;nimamente con tus manos mientras intentas escribir un post para el blog en una sesi&amp;#243;n de &lt;em&gt;pantallita verde&lt;/em&gt; (ssh, para quien entienda) que es, en definitiva, mucho m&amp;#225;s lenta que en una compu real. Steve Jobs estar&amp;#237;a orgulloso o por lo menos te dar&amp;#237;a unas palmaditas en la espalda mientras le env&amp;#237;a una mirada de complicidad a Jony Ive.&lt;/p&gt;
+
+&lt;p&gt;Realmente no te puedes culpar por intentar cumplir este ideal moderno de comodidad y belleza, &amp;iquest;verdad? &lt;strong&gt;&amp;iquest;Verdad?&lt;/strong&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

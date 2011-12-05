@@ -1,0 +1,76 @@
+--- 
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://paperjs.org/
+    :description: ""
+    :title: "Paper.js \xE2\x80\x94 Paper.js"
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://csslint.net/
+    :description: ""
+    :title: CSS Lint
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://www.spritecow.com/
+    :description: ""
+    :title: Sprite Cow
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://www.zenphoto.org/
+    :description: ""
+    :title: Zenphoto - Simpler web gallery management
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://www.simile-widgets.org/
+    :description: ""
+    :title: SIMILE Widgets
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://www.simile-widgets.org/timeline/
+    :description: ""
+    :title: SIMILE Widgets | Timeline
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://deepakssn.blogspot.com/2006/06/gmail-php-send-email-using-php-with.html
+    :description: ""
+    :title: "Tech Meal: [GMAIL] - [PHP] - Send email using PHP with Gmail"
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://www.1stwebdesigner.com/design/google-products-to-use/
+    :description: ""
+    :title: "Google Products You Probably Don\xE2\x80\x99t Know"
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://www.alistapart.com/articles/rapid-prototyping-with-sinatra/
+    :description: ""
+    :title: "A List Apart: Articles: Rapid Prototyping with Sinatra"
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://nefariousdesigns.co.uk/archive/2011/03/seo-for-web-developers-keywords-and-links/
+    :description: ""
+    :title: "SEO for Web Developers: Keywords and Links - Nefarious Designs"
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://www.1stwebdesigner.com/design/web-applications-alternatives-desktop-software/
+    :description: ""
+    :title: 20 Great Web Applications Alternatives to Usual Desktop Software
+- !ruby/object:OpenStruct 
+  table: 
+    :link: https://code.google.com/p/boilerpipe/
+    :description: ""
+    :title: boilerpipe - Project Hosting on Google Code
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://www.springsource.org/spring-android
+    :description: ""
+    :title: Spring Android | SpringSource.org
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://code.google.com/p/gwt-platform/wiki/GettingStarted#Using_GWTP
+    :description: ""
+    :title: GettingStarted - gwt-platform - Starting your new project with GWTP&#39;s MVP architecture - Project Hosting on Google Code
+- !ruby/object:OpenStruct 
+  table: 
+    :link: http://www.interrupt23.com/content/twit5-jqtouch-twittv-web-app
+    :description: ""
+    :title: TWiT5 - jQTouch TWiT.tv Web App | interrupt23

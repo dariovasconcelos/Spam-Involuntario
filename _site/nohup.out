@@ -1,0 +1,21 @@
+[2011-11-30 16:25:05] INFO  WEBrick 1.3.1
+[2011-11-30 16:25:05] INFO  ruby 1.8.7 (2010-01-10) [i486-linux]
+[2011-11-30 16:25:05] INFO  WEBrick::HTTPServer#start: pid=9016 port=4000
+[2011-11-30 16:25:09] INFO  going to shutdown ...
+[2011-11-30 16:25:09] INFO  WEBrick::HTTPServer#start done.
+Configuration from /home/darius/jekyll/_config.yml
+Building site: /home/darius/jekyll -> ./_site
+Successfully generated site: /home/darius/jekyll -> ./_site
+[2011-11-30 16:25:41] INFO  WEBrick 1.3.1
+[2011-11-30 16:25:41] INFO  ruby 1.8.7 (2010-01-10) [i486-linux]
+[2011-11-30 16:25:41] INFO  WEBrick::HTTPServer#start: pid=9020 port=4000
+customer-201-141-199-30.cablevision.net.mx - - [30/Nov/2011:16:25:44 CST] "GET / HTTP/1.1" 200 12754
+- -> /
+customer-201-141-199-30.cablevision.net.mx - - [30/Nov/2011:16:26:14 CST] "GET / HTTP/1.1" 200 12754
+- -> /
+customer-201-141-199-30.cablevision.net.mx - - [30/Nov/2011:16:26:14 CST] "GET /favicon.ico HTTP/1.1" 200 3638
+- -> /favicon.ico
+customer-201-141-199-30.cablevision.net.mx - - [30/Nov/2011:16:29:32 CST] "GET / HTTP/1.1" 304 0
+- -> /
+customer-201-141-199-30.cablevision.net.mx - - [30/Nov/2011:16:29:37 CST] "GET / HTTP/1.1" 304 0
+- -> /
